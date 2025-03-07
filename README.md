@@ -1,3 +1,8 @@
+https://www.loom.com/share/e7b1dd7f5ede43e3909ff7adc5d751b0?sid=51927cf8-68d2-4100-84e0-61c0530e5bbc
+# this is my loom video link
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
